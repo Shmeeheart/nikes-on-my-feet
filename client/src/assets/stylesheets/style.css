@@ -1,10 +1,11 @@
 body {
-    background: url(nikes-on-my-feet.png);
+    background-image: url("https://ibb.co/PMKRztG");
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 0;
     font-size: 1rem;
     font-weight: 1.5;
     line-height: 1.5;
+    background-size: cover;
     
 }
 
