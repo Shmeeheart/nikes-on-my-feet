@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import NavTabs from './NavTabs';
 import Home from './pages/Home';
+import Image from '../assets/images/nikes-on-my-feet.png';
 //import ProductView from './ProductView';
 
 export default function HomeContainer() {
@@ -23,6 +24,7 @@ export default function HomeContainer() {
       {/* We are passing the currentPage from state and the function to update it */}
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       {/* Here we are calling the renderPage method which will return a component  */}
+      {/* <Image></Image> */}
       {renderPage()}
     </div>
   );
