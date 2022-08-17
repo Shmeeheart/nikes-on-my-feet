@@ -20,7 +20,7 @@ export default function HomeContainer() {
       return <ProductView />;
     }
     if (currentPage === 'Review') {
-      return <ProductView />;
+      return <Review />;
     }
   };
 
