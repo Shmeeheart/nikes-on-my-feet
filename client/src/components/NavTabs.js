@@ -11,13 +11,13 @@ function NavTabs({ currentPage, handlePageChange }) {
                 className={currentPage === 'Login' ? 'nav-link active' : 'nav-link'}> Login
                 </button>
             </li>
-            {/* <li>
+            <li>
                 <a 
                 href='#logout'
                 onClick={() => (handlePageChange('Logout'))}
                 className={currentPage === 'Logout' ? 'nav-link active' : 'nav-link'}> Logout
                 </a>
-            </li> */}
+            </li>
             <li>
                 <a 
                 href='#home'
