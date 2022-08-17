@@ -19,6 +19,9 @@ export default function HomeContainer() {
     if (currentPage === 'ProductView') {
       return <ProductView />;
     }
+    if (currentPage === 'Review') {
+      return <ProductView />;
+    }
   };
 
   const handlePageChange = (page) => setCurrentPage(page);
