@@ -5,11 +5,13 @@ This project was designed by the Frosties for a business colleague as selling cu
 
 Authors:
 
-@merrickwatts
-@Shmeeheart
-@JaydenCowley
-@DawnWogerman
-@Mattchublue
+## Authors
+
+- [@Merrick Watts](https://github.com/merrickwatts)
+- [@Jennifer Goodwin](https://github.com/Shmeeheart)
+- [@Jayden Cowley](https://github.com/JaydenCowley)
+- [@Dawn Wogerman](https://github.com/DawnWogerman)
+- [@Matthew Whtieman](https://github.com/DawnWogerman)
 
 Screenshots:
 
