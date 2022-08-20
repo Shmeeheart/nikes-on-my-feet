@@ -2,9 +2,6 @@ Nikes On My Feet
 
 This project was designed by the Frosties for a business colleague as selling custom Nike Shoes.  The app utilizes the website was designed to display these shoes to customers.  Upon logging in customers are presented with shoes based on their shoe size and gender.  The project utilizes React, GraphQL, MongoDB, Mongoose, JavaScript, NoSQL, React, Express, Bcrypt, Heroku, Swipe, and JWT.  
 
-
-Authors:
-
 ## Authors
 
 - [@Merrick Watts](https://github.com/merrickwatts)
