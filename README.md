@@ -22,4 +22,4 @@ When accessing the application click the "Sign Up" button in the top right to si
 <img width="1370" alt="Screen Shot 2022-08-19 at 8 21 22 PM" src="https://user-images.githubusercontent.com/100176161/185729376-987e325d-83c0-46af-bcc4-7e9c243ee7c8.png">
 
 
-Link to deployed application: https://nikes-on-my-feet-project.herokuapp.com/
+Link to deployed application: 
